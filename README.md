@@ -1,2 +1,2 @@
 # portfolio
-Welcome to my source code of my portfolio! 😊👌
+Добро пожаловать! это мой исходный код моего портфолио!😁👌
